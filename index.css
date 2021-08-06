@@ -1,0 +1,27 @@
+html,body{
+    width:100%;
+    height:100%;
+}
+
+body{
+    padding: 10%;
+    padding-top: 0%;
+}
+.app_container{
+    margin-top: "20px";
+    width:100%;
+    margin: 10px,auto;
+    
+}
+.post_inputs_container{
+    margin-top: 20px;
+}
+.app_main_navigation{
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    body{
+        padding: 2%;
+    }
+}
